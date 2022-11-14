@@ -1,0 +1,219 @@
+<html>
+<head>
+<title>TestNG:  My test1</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>My test1</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>12/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Wed Jan 20 14:36:23 IST 2021</td>
+</tr>
+<tr><td>Total time:</td><td>40 seconds (40526 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.add_to_cart()'><b>add_to_cart</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-448569108" onClick='toggleBox("Output-448569108", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-448569108" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-448569108">
+Title of the page is : JPetStore Demo<br/>
+add to cart page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.click_cart()'><b>click_cart</b><br>Test class: module1_testcase.LeftSideDog</td>
+<td></td>
+<td>1</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.click_confirm()'><b>click_confirm</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-1046820071" onClick='toggleBox("Output-1046820071", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1046820071" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1046820071">
+Title of the page is : JPetStore Demo<br/>
+confirmation page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.click_continue()'><b>click_continue</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-1871259950" onClick='toggleBox("Output-1871259950", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1871259950" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1871259950">
+Title of the page is : JPetStore Demo<br/>
+payment page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.click_proceed()'><b>click_proceed</b><br>Test class: module1_testcase.LeftSideDog</td>
+<td></td>
+<td>2</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.click_sign_out()'><b>click_sign_out</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-1163404461" onClick='toggleBox("Output-1163404461", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1163404461" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1163404461">
+Title of the page is : JPetStore Demo<br/>
+sign-out page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.item_id()'><b>item_id</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-834842620" onClick='toggleBox("Output-834842620", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-834842620" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-834842620">
+Title of the page is : JPetStore Demo<br/>
+Dog item id page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.landing()'><b>landing</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-36883680" onClick='toggleBox("Output-36883680", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-36883680" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-36883680">
+Title of the page is : JPetStore Demo<br/>
+landing page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>2</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.product_page()'><b>product_page</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-1793580716" onClick='toggleBox("Output-1793580716", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1793580716" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1793580716">
+Title of the page is : JPetStore Demo<br/>
+Dog product page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.select_dog()'><b>select_dog</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-2075093711" onClick='toggleBox("Output-2075093711", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-2075093711" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-2075093711">
+Title of the page is : JPetStore Demo<br/>
+ClickDog  page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.shopping_cart()'><b>shopping_cart</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-727119352" onClick='toggleBox("Output-727119352", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-727119352" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-727119352">
+Title of the page is : JPetStore Demo<br/>
+shopping cart page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+<tr>
+<td title='module1_testcase.LeftSideDog.sign_in()'><b>sign_in</b><br>Test class: module1_testcase.LeftSideDog<br/>
+<a href="#Output-847839957" onClick='toggleBox("Output-847839957", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-847839957" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-847839957">
+Title of the page is : JPetStore Demo<br/>
+sign-in page is passed<br/>
+</div>
+</td>
+<td></td>
+<td>9</td>
+<td>module1_testcase.LeftSideDog@1534f01b</td></tr>
+</table><p>
+</body>
+</html>

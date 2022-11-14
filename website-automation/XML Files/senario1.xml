@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> <!-- selecting the product and then sign in -->
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name= "My Suite">
+
+<test  name= "My test">
+<classes>
+<class name = "testcases.Senario1_testcase" /> 
+</classes>
+</test>
+</suite>

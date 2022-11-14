@@ -1,0 +1,1455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Edge Browser Launched]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[landing page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[clicked on fish from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[cart icon is clicked successfully...]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out....]]>
+    </line>
+    <line>
+      <![CDATA[clicked on fish from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[cart icon is clicked successfully...]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out....]]>
+    </line>
+    <line>
+      <![CDATA[clicked on fish from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[cart icon is clicked successfully...]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out....]]>
+    </line>
+    <line>
+      <![CDATA[clicked on fish from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[cart icon is clicked successfully...]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out....]]>
+    </line>
+    <line>
+      <![CDATA[clicked on fish from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[cart icon is clicked successfully...]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out....]]>
+    </line>
+    <line>
+      <![CDATA[clicked on fish from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully.....]]>
+    </line>
+    <line>
+      <![CDATA[cart icon is clicked successfully...]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out....]]>
+    </line>
+    <line>
+      <![CDATA[clicked on dog from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[cart icon clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out]]>
+    </line>
+    <line>
+      <![CDATA[clicked on dog from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[cart icon clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out]]>
+    </line>
+    <line>
+      <![CDATA[clicked on dog from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[cart icon clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out]]>
+    </line>
+    <line>
+      <![CDATA[clicked on dog from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[cart icon clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out]]>
+    </line>
+    <line>
+      <![CDATA[clicked on dog from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[cart icon clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out]]>
+    </line>
+    <line>
+      <![CDATA[clicked on dog from left module]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[homepage page is loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[home page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[product page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[item id page loaded successfully....]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[add to cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[shopping cart page loaded successfully...]]>
+    </line>
+    <line>
+      <![CDATA[cart icon clicked successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[payment page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[confirmation page loaded successfully]]>
+    </line>
+    <line>
+      <![CDATA[Title of the page is : JPetStore Demo]]>
+    </line>
+    <line>
+      <![CDATA[clicked sign-out]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2021-01-22T20:31:06 IST" name="Default suite" finished-at="2021-01-22T20:42:12 IST" duration-ms="665919">
+    <groups>
+    </groups>
+    <test started-at="2021-01-22T20:31:06 IST" name="Default test" finished-at="2021-01-22T20:42:12 IST" duration-ms="665919">
+      <class name="testcases.Senario1_testcase">
+        <test-method is-config="true" signature="browser()[pri:0, instance:testcases.Senario1_testcase@ba54932]" started-at="2021-01-22T20:31:06 IST" name="browser" finished-at="2021-01-22T20:31:19 IST" duration-ms="13216" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Browser Launched]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="landing_page()[pri:0, instance:testcases.Senario1_testcase@ba54932]" started-at="2021-01-22T20:31:19 IST" name="landing_page" finished-at="2021-01-22T20:31:38 IST" duration-ms="19019" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[landing page loaded successfully....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- landing_page -->
+        <test-method signature="FishTest()[pri:1, instance:testcases.Senario1_testcase@ba54932]" started-at="2021-01-22T20:31:38 IST" name="FishTest" finished-at="2021-01-22T20:36:36 IST" duration-ms="298113" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on fish from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[cart icon is clicked successfully...]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out....]]>
+            </line>
+            <line>
+              <![CDATA[clicked on fish from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[cart icon is clicked successfully...]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out....]]>
+            </line>
+            <line>
+              <![CDATA[clicked on fish from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[cart icon is clicked successfully...]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out....]]>
+            </line>
+            <line>
+              <![CDATA[clicked on fish from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[cart icon is clicked successfully...]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out....]]>
+            </line>
+            <line>
+              <![CDATA[clicked on fish from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[cart icon is clicked successfully...]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out....]]>
+            </line>
+            <line>
+              <![CDATA[clicked on fish from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully.....]]>
+            </line>
+            <line>
+              <![CDATA[cart icon is clicked successfully...]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FishTest -->
+        <test-method signature="DogTest()[pri:2, instance:testcases.Senario1_testcase@ba54932]" started-at="2021-01-22T20:36:36 IST" name="DogTest" finished-at="2021-01-22T20:42:10 IST" duration-ms="333575" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on dog from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[cart icon clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out]]>
+            </line>
+            <line>
+              <![CDATA[clicked on dog from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[cart icon clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out]]>
+            </line>
+            <line>
+              <![CDATA[clicked on dog from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[cart icon clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out]]>
+            </line>
+            <line>
+              <![CDATA[clicked on dog from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[cart icon clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out]]>
+            </line>
+            <line>
+              <![CDATA[clicked on dog from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[cart icon clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out]]>
+            </line>
+            <line>
+              <![CDATA[clicked on dog from left module]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[homepage page is loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[home page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[product page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[item id page loaded successfully....]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[add to cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[shopping cart page loaded successfully...]]>
+            </line>
+            <line>
+              <![CDATA[cart icon clicked successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[payment page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[confirmation page loaded successfully]]>
+            </line>
+            <line>
+              <![CDATA[Title of the page is : JPetStore Demo]]>
+            </line>
+            <line>
+              <![CDATA[clicked sign-out]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DogTest -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.Senario1_testcase@ba54932]" started-at="2021-01-22T20:42:10 IST" name="close" finished-at="2021-01-22T20:42:12 IST" duration-ms="1875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.Senario1_testcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
